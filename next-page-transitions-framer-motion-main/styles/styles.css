@@ -1,0 +1,6 @@
+p #nestedP {
+  color: blue;
+}
+#nestedP {
+  color: red;
+}
